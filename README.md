@@ -1,5 +1,5 @@
-Cattulae dolet, caniculae dolet,
-Mea autocurrus dolet, centum octanis refertus.
+# Cattulae dolet, caniculae dolet,
+# Mea autocurrus dolet, centum octanis refertus.
 
-# db
+db
 Pakhomova R. 607-62.
